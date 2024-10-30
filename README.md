@@ -1,2 +1,2 @@
-# vrajeala
-IA
+# CV
+Informatica Aplicata
